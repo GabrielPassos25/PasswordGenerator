@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][SplashScreen]](https://example.com)
 
 This project came about when I was starting to learn react-native. With this, it has the purpose of generating strong passwords to be used on different websites according to the user's preference.
 
