@@ -45,7 +45,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][SplashScreen]](https://example.com)
+<a href="https://github.com/GabrielPassos25/PasswordGenerator">
+    <img src="assets/SplashScreen.png" alt="Logo" width="470" height="900">
+  </a>
 
 This project came about when I was starting to learn react-native. With this, it has the purpose of generating strong passwords to be used on different websites according to the user's preference.
 
