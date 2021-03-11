@@ -46,8 +46,13 @@
 ## About The Project
 
 <a href="https://github.com/GabrielPassos25/PasswordGenerator">
-    <img src="assets/SplashScreen.png" alt="Logo" width="470" height="900">
-  </a>
+    <img src="assets/SplashScreen.png" alt="Logo" width="400" height="900">
+    <img src="assets/FirstScreen.png" alt="Logo" width="400" height="900">
+</a>
+<a href="https://github.com/GabrielPassos25/PasswordGenerator">
+    <img src="assets/Android.png" alt="Logo" width="400" height="900">
+    <img src="assets/IOS.png" alt="Logo" width="400" height="900">
+</a>
 
 This project came about when I was starting to learn react-native. With this, it has the purpose of generating strong passwords to be used on different websites according to the user's preference.
 
