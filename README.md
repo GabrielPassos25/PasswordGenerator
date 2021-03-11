@@ -44,7 +44,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+[SplashScreen]
 <a href="https://github.com/GabrielPassos25/PasswordGenerator">
     <img src="assets/SplashScreen.png" alt="Logo" width="300" height="500">
     <img src="assets/FirstScreen.png" alt="Logo" width="300" height="500">
