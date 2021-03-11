@@ -48,6 +48,8 @@
 <a href="https://github.com/GabrielPassos25/PasswordGenerator">
     <img src="assets/SplashScreen.png" alt="Logo" width="400" height="700">
     <img src="assets/FirstScreen.png" alt="Logo" width="400" height="700">
+  <img src="assets/Android.png" alt="Logo" width="400" height="700">
+    <img src="assets/IOS.png" alt="Logo" width="400" height="700">
 </a>
 <a href="https://github.com/GabrielPassos25/PasswordGenerator">
     <img src="assets/Android.png" alt="Logo" width="400" height="700">
